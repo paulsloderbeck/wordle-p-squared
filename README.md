@@ -1,0 +1,1 @@
+# wordle-p-squared
